@@ -10,4 +10,4 @@ end
 
 binding.pry
 
-hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
+hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
